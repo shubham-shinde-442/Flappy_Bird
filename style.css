@@ -6,6 +6,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
 }
-#board {
-  background-color: skyblue;
+::-webkit-scrollbar{
+  overflow: hidden;
 }
